@@ -18,6 +18,6 @@ class factorial {
     { 
         int num = 5; 
         System.out.println("Factorial of " + num + " is "
-                           + factorial(5)); 
+                           + factorial(5));
     } 
 }
