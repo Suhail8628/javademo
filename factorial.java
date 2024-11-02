@@ -1,10 +1,4 @@
-// Java program to find factorial 
-// of given number 
-  
-// Driver Class 
 class factorial { 
-    // Method to find factorial 
-    // of given number 
     static int factorial(int n) 
     { 
         int res = 1, i; 
@@ -12,8 +6,6 @@ class factorial {
             res *= i; 
         return res; 
     } 
-  
-    // main method 
     public static void main(String[] args) 
     { 
         int num = 5; 
